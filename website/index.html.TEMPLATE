@@ -101,8 +101,8 @@
               <div class="icon">
                 <a href="http://localhost:7681"><img src="assets/img/terminal-ansible.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7681">Ubuntu-C</a></h4>
-              <p>Ansible Control Host, running on Ubuntu Linux</p>
+              <h4><a href="http://localhost:7681">CentOS-C</a></h4>
+              <p>Ansible Control Host, running on CentOS Linux</p>
               <p>Alternative SSH connectivity - localhost:2221</p>
             </div>
           </div>
@@ -125,10 +125,10 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-blue">
               <div class="icon">
-                <a href="http://localhost:7682"><img src="assets/img/terminal-ubuntu.png" class="img-fluid animated" alt=""></a>
+                <a href="http://localhost:7682"><img src="assets/img/terminal-centos.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7682">Ubuntu1</a></h4>
-              <p>Ubuntu Linux Host 1</p>
+              <h4><a href="http://localhost:7682">CentOS1</a></h4>
+              <p>CentOS Linux Host 1</p>
               <p>Alternative SSH connectivity - localhost:2222</p>
             </div>
           </div>
@@ -136,10 +136,10 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-blue">
               <div class="icon">
-                <a href="http://localhost:7683"><img src="assets/img/terminal-ubuntu.png" class="img-fluid animated" alt=""></a>
+                <a href="http://localhost:7683"><img src="assets/img/terminal-centos.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7683">Ubuntu2</a></h4>
-              <p>Ubuntu Linux Host 2</p>
+              <h4><a href="http://localhost:7683">CentOS2</a></h4>
+              <p>CentOS Linux Host 2</p>
               <p>Alternative SSH connectivity - localhost:2223</p>
             </div>
           </div>
@@ -147,10 +147,10 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-blue">
               <div class="icon">
-                <a href="http://localhost:7684"><img src="assets/img/terminal-ubuntu.png" class="img-fluid animated" alt=""></a>
+                <a href="http://localhost:7684"><img src="assets/img/terminal-centos.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7684">Ubuntu3</a></h4>
-              <p>Ubuntu Linux Host 3</p>
+              <h4><a href="http://localhost:7684">CentOS3</a></h4>
+              <p>CentOS Linux Host 3</p>
               <p>Alternative SSH connectivity - localhost:2224</p>
             </div>
           </div>
@@ -160,8 +160,8 @@
               <div class="icon">
                 <a href="http://localhost:7685"><img src="assets/img/terminal-centos.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7685">CentOS1</a></h4>
-              <p>CentOS Linux Host 1</p>
+              <h4><a href="http://localhost:7685">CentOS4</a></h4>
+              <p>CentOS Linux Host 4</p>
               <p>Alternative SSH connectivity - localhost:2225</p>
             </div>
           </div>
@@ -171,8 +171,8 @@
               <div class="icon">
                 <a href="http://localhost:7686"><img src="assets/img/terminal-centos.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7686">CentOS2</a></h4>
-              <p>CentOS Linux Host 2</p>
+              <h4><a href="http://localhost:7686">CentOS5</a></h4>
+              <p>CentOS Linux Host 5</p>
               <p>Alternative SSH connectivity - localhost:2226</p>
             </div>
           </div>
@@ -182,8 +182,8 @@
               <div class="icon">
                 <a href="http://localhost:7687"><img src="assets/img/terminal-centos.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7687">CentOS3</a></h4>
-              <p>CentOS Linux Host 3</p>
+              <h4><a href="http://localhost:7687">CentOS6</a></h4>
+              <p>CentOS Linux Host 6</p>
               <p>Alternative SSH connectivity - localhost:2227</p>
             </div>
           </div>
@@ -206,42 +206,9 @@
           <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-blue">
               <div class="icon">
-                <a href="http://localhost:1000/ubuntu1"><img src="assets/img/webserver.png" class="img-fluid animated" alt=""></a>
-              </div>
-              <h4><a href="http://localhost:7682">Ubuntu1</a></h4>
-              <p>Ubuntu Linux Host 1</p>
-              <p>Nginx - Webserver Reverse Proxy Connectivity </p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box iconbox-blue">
-              <div class="icon">
-                <a href="http://localhost:1000/ubuntu2"><img src="assets/img/webserver.png" class="img-fluid animated" alt=""></a>
-              </div>
-              <h4><a href="http://localhost:7683">Ubuntu2</a></h4>
-              <p>Ubuntu Linux Host 2</p>
-              <p>Nginx - Webserver Reverse Proxy Connectivity </p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box iconbox-blue">
-              <div class="icon">
-                <a href="http://localhost:1000/ubuntu3"><img src="assets/img/webserver.png" class="img-fluid animated" alt=""></a>
-              </div>
-              <h4><a href="http://localhost:7684">Ubuntu3</a></h4>
-              <p>Ubuntu Linux Host 3</p>
-              <p>Nginx - Webserver Reverse Proxy Connectivity </p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box iconbox-blue">
-              <div class="icon">
                 <a href="http://localhost:1000/centos1"><img src="assets/img/webserver.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7685">CentOS1</a></h4>
+              <h4><a href="http://localhost:7682">CentOS1</a></h4>
               <p>CentOS Linux Host 1</p>
               <p>Nginx - Webserver Reverse Proxy Connectivity </p>
             </div>
@@ -252,7 +219,7 @@
               <div class="icon">
                 <a href="http://localhost:1000/centos2"><img src="assets/img/webserver.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7686">CentOS2</a></h4>
+              <h4><a href="http://localhost:7683">CentOS2</a></h4>
               <p>CentOS Linux Host 2</p>
               <p>Nginx - Webserver Reverse Proxy Connectivity </p>
             </div>
@@ -263,8 +230,41 @@
               <div class="icon">
                 <a href="http://localhost:1000/centos3"><img src="assets/img/webserver.png" class="img-fluid animated" alt=""></a>
               </div>
-              <h4><a href="http://localhost:7687">CentOS3</a></h4>
+              <h4><a href="http://localhost:7684">CentOS3</a></h4>
               <p>CentOS Linux Host 3</p>
+              <p>Nginx - Webserver Reverse Proxy Connectivity </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <div class="icon">
+                <a href="http://localhost:1000/centos4"><img src="assets/img/webserver.png" class="img-fluid animated" alt=""></a>
+              </div>
+              <h4><a href="http://localhost:7685">CentOS4</a></h4>
+              <p>CentOS Linux Host 4</p>
+              <p>Nginx - Webserver Reverse Proxy Connectivity </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <div class="icon">
+                <a href="http://localhost:1000/centos5"><img src="assets/img/webserver.png" class="img-fluid animated" alt=""></a>
+              </div>
+              <h4><a href="http://localhost:7686">CentOS5</a></h4>
+              <p>CentOS Linux Host 5</p>
+              <p>Nginx - Webserver Reverse Proxy Connectivity </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <div class="icon">
+                <a href="http://localhost:1000/centos6"><img src="assets/img/webserver.png" class="img-fluid animated" alt=""></a>
+              </div>
+              <h4><a href="http://localhost:7687">CentOS6</a></h4>
+              <p>CentOS Linux Host 6</p>
               <p>Nginx - Webserver Reverse Proxy Connectivity </p>
             </div>
           </div>
